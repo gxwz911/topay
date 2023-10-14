@@ -9,6 +9,8 @@ DOMAIN,isaas.ecombdapi.com
 DOMAIN,dig.bdurl.net
 DOMAIN,s718ys.t8947opay.com
 DOMAIN-SUFFIX,easytomessage.com
+IP-CIDR,47.57.0.0/12
+IP-CIDR,47.243.0.0/12
 IP-CIDR,47.57.237.206/32
 IP-CIDR,47.57.6.57/32
 IP-CIDR,17.253.116.253/32
