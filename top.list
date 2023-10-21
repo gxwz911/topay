@@ -10,6 +10,9 @@ DOMAIN,dig.bdurl.net
 DOMAIN,api.topayadmin.com
 DOMAIN,s718ys.t8947opay.com
 DOMAIN-SUFFIX,easytomessage.com
+DOMAIN-SUFFIX,umeng.com
+
+# IP-CIDR DIRECT
 IP-CIDR,47.57.0.0/16
 IP-CIDR,47.243.0.0/16
 IP-CIDR,35.220.0.0/16
