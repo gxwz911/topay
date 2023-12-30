@@ -1,15 +1,15 @@
 # NAME: ToPay
 
-DOMAIN,api.tef886.org
-DOMAIN,i973.top93479ay.com
-DOMAIN,miu721y.topa1923832y.com
-DOMAIN,img2.to7471pay.com
-DOMAIN,ocsp.digicert.com
-DOMAIN,isaas.ecombdapi.com
-DOMAIN,dig.bdurl.net
-DOMAIN,api.topayadmin.com
-DOMAIN,s718ys.t8947opay.com
-DOMAIN,da29a1.toxxxpay.com
+DOMAIN-SUFFIX,tef886.org
+DOMAIN-SUFFIX,top93479ay.com
+DOMAIN-SUFFIX,topa1923832y.com
+DOMAIN-SUFFIX,to7471pay.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,bdurl.net
+DOMAIN-SUFFIX,topayadmin.com
+DOMAIN-SUFFIX,t8947opay.com
+DOMAIN-SUFFIX,toxxxpay.com
 DOMAIN-SUFFIX,easytomessage.com
 DOMAIN-SUFFIX,umeng.com
 IP-CIDR,47.57.0.0/16
